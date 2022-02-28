@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Lato', sans-serif;;
+}
+main h1{
+    color: rgba(203, 30, 64,0.7);  
+    font-family: 'Architects Daughter', cursive;
+    font-size: 50px;
+}
+main h3{
+    padding: 5px;
+    font-style: italic;
+    font-size: 25px;
+}
+main section h2{
+    font-size: 35px;
+}
+main section img{
+    width: 60%;
+    padding: 10px;
+}
+
+main section p.sec{
+    padding: 5px;
+}
+main ul{
+    list-style: none;
+}
+main ol{
+    list-style: none;
+}
+main section article#arti1{
+    padding-bottom: 10px;
+}
+main section article#arti2{
+    padding-bottom: 10px;
+}
